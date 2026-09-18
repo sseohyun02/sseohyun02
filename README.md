@@ -9,9 +9,9 @@ Industrial Systems Engineering & Data Science Software, Dongguk University
 ### Tech Stack
 
 - **Language**: Python, SQL, Java
-- **Data / AI**: Vertex AI (text-multilingual-embedding-002), LangChain, LangGraph, Jupyter
-- **Backend**: Spring Boot, Spring Data JPA
-- **Tools**: Git, Notion, DBML
+- **Data / AI**: Vertex AI, LangChain, LangGraph
+- **Backend**: FastAPI, Spring Boot, Spring Data JPA
+- **Tools**: Git, Notion, Figma, BigQuery, LookerStudio
 
 ---
 
@@ -21,7 +21,7 @@ Industrial Systems Engineering & Data Science Software, Dongguk University
 : 법령·판례 데이터를 기반으로 임대차 계약서의 특약 조항을 분석하는 RAG 파이프라인입니다.
 
 - 사용 스킬/툴: Python, Vertex AI, DBML
-- [저장소 링크](https://github.com/CSID-DGU/2026-1-DSCD-ADE-01.git)
+- [저장소 링크](https://github.com/sseohyun02/rag-lease-contract-review.git)
 
 
 
