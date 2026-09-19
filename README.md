@@ -29,7 +29,7 @@ Industrial Systems Engineering & Data Science Software, Dongguk University
 : LangChain/LangGraph 기반 AI 면접 시뮬레이터로, 이력서 업로드부터 피드백 보고서 생성까지 전체 면접 과정을 자동화합니다.
 
 - 사용 스킬/툴: LangChain, LangGraph, Gradio, ChromaDB, PyMuPDF, python-docx
-- [저장소 링크](https://github.com/sseohyun02/AI_Agent.git)
+- [저장소 링크](https://github.com/sseohyun02/AI-Interview-Bot.git)
 
 
 
