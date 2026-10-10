@@ -33,12 +33,6 @@ Industrial Systems Engineering & Data Science Software, Dongguk University
 
 
 
-**3. 작가의 서재 (AI 표지 생성 도서 플랫폼)**
-: 사용자가 작성한 도서 콘텐츠를 기반으로 AI가 표지 이미지를 자동 생성하고, 다른 사용자의 작품을 열람할 수 있는 서비스입니다.
-
-- 사용 스킬/툴: React, Spring Boot 3.x, Spring Data JPA, MapStruct, MUI, Axios, OpenAI DALL·E 3 API, Figma, draw.io
-- [저장소 링크](https://github.com/sseohyun02/kt_library.git)
-
 ---
 
 ### Links
